@@ -45,3 +45,7 @@
 ![2021-03-03 (8)](https://user-images.githubusercontent.com/73109076/109848272-f8957a00-7c47-11eb-9071-e709db77ab02.png)
 
  ## Run it on Android and chat to the thing in your device!
+
+### Programming the ChatBot
+1) The documentation that describes how to program the chatbot can be found [here](https://rasa.com/docs/rasa/training-data-format).
+2) You will need to re-do the above tutorial, and adjust the "RASA" step in order for your programmed bot to work
